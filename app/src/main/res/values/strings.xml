@@ -2,4 +2,6 @@
     <string name="app_name">My Social Media</string>
     <string name="facebook_app_id">205497407222152</string>
     <string name="fb_login_protocol_scheme">fb205497407222152</string>
+    <string name="my_welcome_text">Welcome to use My Social Media app. In order to use this app, first you need to login with Facebook.
+    After login you have also option to use Twitter and LinkedIn.</string>
 </resources>
